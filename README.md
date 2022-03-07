@@ -1,7 +1,16 @@
-- Hello there!(Please imagine Caveira's voice)
-- 啥也别说了，双非一本眼高手低学渣一枚。
-- 持续性混吃等死，间歇性踌躇满志的fw。
-- 想学图形学
+Hello!
+- you can call me Binarydog_Lee
+- which is also known in Chinese as 李二狗
+
+My skills:
+- 3D modeling(especially in the workflow of Blender&Substance Painter)
+- C/C++/C#/Python/Java/JavaScript
+
+My future study plan
+- CG
+- Web
+
+BTW, I would appreciate it if you invite me to play R6S togetcher
 
 <!---
 nszjjj/nszjjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
