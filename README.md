@@ -1,21 +1,9 @@
-Hello!
-- you can call me Binarydog_Lee
-- which is also known in Chinese as 李二狗
-
-My skills:
-- 3D modeling(especially in the workflow of Blender&Zbrush&Substance Painter)
-- C/C++/C#/Python/Java/JavaScript
-
-My future study plan
-- CG
-- Game-dev relating skills
-- learn Houdini
-
-My future plan
-- Obtained the qualification to study for master's degree
-- Be a tech artist
-
-BTW, I would appreciate it if you invite me to play R6S togetcher
+🚀 Unity Programmer | Graphics & Rendering Enthusiast | Web3 Explorer
+✨ Passionate about emerging technologies — always eager to learn what's next.
+💡 Always brewing creative ideas — some practical, some just for fun.
+🎨 Love diving into shaders, lighting, and 3D modeling (3D digital art).
+📈 Into crypto investing & DeFi — blending tech curiosity with financial innovation.
+🎲 Alea iacta est. — The die is cast. No hesitation, just creation.
 
 <!---
 nszjjj/nszjjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
